@@ -38,7 +38,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 ## Installation
 
-no installation just need to go to the website here is the [NEED DEPLOYED LINK??] so that you can try password generator...
+no installation just need to go to the website here is the https://oliverlo78.github.io/password-gen/ go ahead and try password generator.
 
 ## Usage
 
