@@ -56,7 +56,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![demo 4](https://user-images.githubusercontent.com/109435666/210089858-bf4312fb-1c22-403f-81d7-fab25a6646ef.png)
 
-![demo 5](https://user-images.githubusercontent.com/109435666/210089958-b8617497-36f7-4004-a4be-223ccf12c31c.png)
+![demo 5](https://user-images.githubusercontent.com/109435666/210090350-d111f98b-9e86-4829-a2f8-1c6081954281.png)
 
 ## Credits
 
