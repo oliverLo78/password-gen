@@ -58,14 +58,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![demo 5](https://user-images.githubusercontent.com/109435666/210090350-d111f98b-9e86-4829-a2f8-1c6081954281.png)
 
-## Credits
+## Contact
 
+For any further questions feel free to contact me via:
+- GitHub: [GitHub oliverLo78](https://github.com/oliverLo78)
+- Email: [oliverberto@gmail.com](mailto:oliverberto@gmail.com)
+- LinkedIn: [Oliver Lopez](https://www.linkedin.com/in/oliver-lopez78/)
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
