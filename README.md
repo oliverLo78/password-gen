@@ -46,9 +46,20 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![peak look at password generator](Assets/images/Screenshot%20prompt-2.png)
+![password generator](https://user-images.githubusercontent.com/109435666/210089461-402a6dc3-78e8-4999-854a-f9f7e58cdac2.png)
+
+![demo 1](https://user-images.githubusercontent.com/109435666/210089556-9dc984e2-5bbf-420f-a784-1f21a08d3860.png)
+
+![demo 2](https://user-images.githubusercontent.com/109435666/210089729-a707515b-5776-4ea3-885d-c0601ed3d4f1.png)
+
+![demo 3](https://user-images.githubusercontent.com/109435666/210089808-e8b14c4f-a8e9-4e24-a336-ad5ec5542131.png)
+
+![demo 4](https://user-images.githubusercontent.com/109435666/210089858-bf4312fb-1c22-403f-81d7-fab25a6646ef.png)
+
+![demo 5](https://user-images.githubusercontent.com/109435666/210089958-b8617497-36f7-4004-a4be-223ccf12c31c.png)
 
 ## Credits
+
 
 List your collaborators, if any, with links to their GitHub profiles.
 
